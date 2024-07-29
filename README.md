@@ -2,17 +2,17 @@
 <h3 align="center">A passionate web developer from Sumberasih, Probolinggo, Indonesia</h3>
 <img align="right" width="300" src="https://clipart-library.com/images/gce5ryLMi.gif">
 
-- 🔭 I’m currently working on **PP Nurul Jadid**
+- 🔭I'm currently studying at **PP Nurul Jadid**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **I'm currently studying coding and religious knowledge**
 
-- 💬 Ask me about **react, vue, laravel, and django**
+- 💬 Ask me about **life and love**
 
-- 📫 How to reach me **Gantengiksan65@gmail.com**
+- 📫 How to reach me **perantau07.id@gmail.com**
 
-- WhatsApp or Mobile Phone Number **+62-8145-5095-274**
+- WhatsApp or Mobile Phone Number **+62-8133-7464-351**
 
-- ⚡ Fun fact **No Game No Life**
+- ⚡ Fun fact **death caused by longing, including martyrdom**
 
 
 <h3 align="left">Connect with me:</h3>
