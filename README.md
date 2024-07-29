@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, I'm [Asrul] 👋
 
-<!--
-**MuhammadMasyarullah/MuhammadMasyarullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌱 Currently learning [teknologi baru]
+- 💼 Working on [nama proyek]
+- 🔭 Looking to collaborate on [jenis proyek]
+- 📫 How to reach me: [email] or [Twitter handle]
 
-Here are some ideas to get you started:
+## Projects
+- [Nama Proyek 1](link): Deskripsi singkat tentang proyek.
+- [Nama Proyek 2](link): Deskripsi singkat tentang proyek.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Programming Languages**: Python, JavaScript, etc.
+- **Frameworks**: React, Django, etc.
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=[GitHub_Username])
