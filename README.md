@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Naski1">Asrul</a></h1>
-<h3 align="center">A passionate web developer from Sumberasih, Probolinggo, Indonesia</h3>
+<h3 align="center">A passionate web developer from Kupang, East Nusa Tenggara, Indonesia</h3>
 <img align="right" width="500" src="https://i.pinimg.com/originals/8d/6f/23/8d6f235ec518493c00ae6cf09260e9f4.gif">
 
 - 🔭I'm currently studying at **PP Nurul Jadid**
